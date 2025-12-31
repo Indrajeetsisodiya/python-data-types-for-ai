@@ -10,9 +10,9 @@ https://indrajeet-codes.hashnode.dev/python-data-types-for-ai-my-beginner-notes-
 
 
 ## Topics covered
-- Boolean type → see `boolean.py`
-- Numeric types (int, float, complex) → see `numbers.py`
-- String type → see `strings.py`
+- Boolean type → see [boolean.py](boolean.py)
+- Numeric types (int, float, complex) → see [numbers.py](numbers.py)
+- String type → see [strings.py](strings.py)
 - Using type() in Python
 
 
